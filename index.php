@@ -13,8 +13,8 @@ echo "adminsin";
 
 //$_SESSION["login"] = "true";
 //$_SESSION["user"] = user;
-
-
+//session_destroy();
+//ob_end_flush();
 
 
 
