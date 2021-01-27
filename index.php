@@ -11,6 +11,12 @@ echo "adminsin";
 
 }
 
+//$_SESSION["login"] = "true";
+//$_SESSION["user"] = user;
+
+
+
+
 
 
 
